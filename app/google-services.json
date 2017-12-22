@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "710997759983",
+    "firebase_url": "https://xoxonline-56127.firebaseio.com",
+    "project_id": "xoxonline-56127",
+    "storage_bucket": "xoxonline-56127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710997759983:android:0c8e871c4cef8871",
+        "android_client_info": {
+          "package_name": "com.dargorbaman.xoxonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710997759983-3bvup109d6rifv55hb0s772cn5ronfds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dargorbaman.xoxonline",
+            "certificate_hash": "d86a0b7693375c90849a764fd88024f66edf95e2"
+          }
+        },
+        {
+          "client_id": "710997759983-qe78qvnursjuvojmu2dmmgf4b8cbfcge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeA_h-QdaGmXR_OzmLfMqkIo6OWjiNEgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710997759983-qe78qvnursjuvojmu2dmmgf4b8cbfcge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
