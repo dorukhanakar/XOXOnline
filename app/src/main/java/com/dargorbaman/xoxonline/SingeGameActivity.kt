@@ -1,7 +1,7 @@
 package com.dargorbaman.xoxonline
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import android.util.Log
 import android.view.View
 import android.widget.Button
@@ -126,9 +126,9 @@ class SingeGameActivity : AppCompatActivity() {
 
         if (winner!=-1){
             if (winner==1){
-                Toast.makeText(this," X'ler Kazandı. ",Toast.LENGTH_LONG).show()
+                Toast.makeText(this, " X'ler Kazandı. ", Toast.LENGTH_SHORT).show()
             }else{
-                Toast.makeText(this," O'lar Kazandı. ",Toast.LENGTH_LONG).show()
+                Toast.makeText(this, " O'lar Kazandı. ", Toast.LENGTH_SHORT).show()
 
 
             }
