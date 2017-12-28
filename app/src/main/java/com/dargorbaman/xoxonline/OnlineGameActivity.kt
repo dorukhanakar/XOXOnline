@@ -267,24 +267,7 @@ class OnlineGameActivity : AppCompatActivity(), View.OnClickListener {
 
                                 AutoPlay(item.key.toInt())
                             }
-/*
 
-                            val td=p0!!.value as HashMap<String, Any>
-                            if (td!=null){
-                                var value:String
-                                for(key in td.keys){
-                                    value=td[key] as String
-                                    if(value!=myEmail){
-                                       ActivePlayer=if(PlayerRole==="X")1 else 2
-
-                                    }else{
-                                        ActivePlayer=if(PlayerRole==="X")2 else 1
-                                    }
-
-                                    AutoPlay(key.toInt())
-                                }
-
-                            }*/
 
                         } catch (e: Exception) {
 
